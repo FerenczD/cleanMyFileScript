@@ -1,5 +1,5 @@
 # cleanMyFileScript
-Script made to clean repetitive comments and repetitive, not useful lines, of code
+Script made to clean repetitive comments and repetitive, not useful lines, of code!
 
 Really simple to use:
 	1. Manually glance your code to determine the repetitive useless lines of code
